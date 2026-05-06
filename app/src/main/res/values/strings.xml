@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioCast</string>
+    <string name="capture_notification_channel">Audio Capture</string>
+    <string name="capture_notification_title">AudioCast is streaming</string>
+    <string name="stop_capture">Stop</string>
+</resources>
